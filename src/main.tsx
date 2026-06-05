@@ -1,5 +1,5 @@
 import { render } from 'preact'
 import './index.css'
-import { App } from './app.tsx'
+import AssemblyEndgame from './app.tsx'
 
-render(<App />, document.getElementById('app')!)
+render(<AssemblyEndgame />, document.getElementById('app')!)
